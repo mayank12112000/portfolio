@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Ecommerce application",
+    "imageSrc": "projects/ecommerce.png",
+    "description": "E-commerce Book store responsive application with implementation of advance state management and user authentication",
+    "skills": ["React", "Redux","Bootstrap"],
+    "demo": "https://mayank-pustakalaya.netlify.app/",
+    "source": "https://github.com/mayank12112000/Book-Store"
+  },
+  {
+    "title": "Mini Spotify Clone",
+    "imageSrc": "projects/spotify.png",
+    "description": "Music player responsive application made by using third party api.",
+    "skills": ["React", "Bootstrap"],
+    "demo": "https://mayank-spotify.netlify.app/",
+    "source": "https://github.com/mayank12112000/spotify-clone"
+  }
+]

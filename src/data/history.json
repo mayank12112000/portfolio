@@ -1,0 +1,20 @@
+[
+  {
+    "role": "System Engineer",
+    "organisation": "Tata Consultancy Services",
+    "startDate": "June, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on Loan processing platform",
+    "Contributed to feature additions, restructuring, refactoring, and migrations.",
+    "Implemented state management solutions like Redux and Redux Toolkit to manage and share data across components"],
+    "imageSrc": "history/tcs.png"
+  },
+  {
+    "role": "SDE Intern",
+    "organisation": "EddyTools - Digital Transformation",
+    "startDate": "Jan, 2023",
+    "endDate": "April, 2023",
+    "experiences": ["Designed 10+ screens and created prototypes for internal web application."],
+    "imageSrc": "history/eddytools.png"
+  }
+]
