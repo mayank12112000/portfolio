@@ -8,8 +8,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hello, I'm Mayank</h1>
         <p className={styles.description}>
-          I'm a full-stack developer(frontend heavy) with 2 years of experience using React and
-          Redux. Reach out if you'd like to learn more!
+          I'm a full-stack developer(frontend heavy) with 2 years of experience using React, Redux and Spring Boot. Reach out if you'd like to learn more!
         </p>
         <div>
 
