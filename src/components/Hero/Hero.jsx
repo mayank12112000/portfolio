@@ -11,13 +11,12 @@ export const Hero = () => {
           I'm a full-stack developer(frontend heavy) with 2 years of experience using React, Redux and Spring Boot. Reach out if you'd like to learn more!
         </p>
         <div>
-
-        <a href="mailto:mayank.keshari.93@gmail.com" className={styles.contactBtn}>
-          Contact Me
-        </a>
-        <a href="/resume/Mayank-Keshari-Resume.pdf" download className={styles.contactBtn}>
-          Resume
-        </a>
+          <a href="mailto:mayank.keshari.93@gmail.com" className={styles.contactBtn}>
+            Contact Me
+          </a>
+          <a href="/resume/Mayank-Keshari-Resume.pdf" download className={styles.contactBtn}>
+            Resume
+          </a>
         </div>
       </div>
       <img
